@@ -1,4 +1,4 @@
-# Quick Setup
+# Quick Setup Prateek
 
 Follow these steps to get the researcher running with the default configuration.
 
